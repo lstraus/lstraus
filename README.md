@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-School: The University of Chicago ('28)
-Favorite Class so Far: Calculus Honors
-Hometown: Palmyra, VA
-1st Computer Owned: A really old Dell laptop running Windows 7 that my mom gave me when I was 10
-Contact info: lstraus@uchicago.edu
-Favorite Language: Python
+### School: The University of Chicago ('28)
+### Favorite Class so Far: Calculus Honors
+### Hometown: Palmyra, VA
+### 1st Computer Owned: A really old Dell laptop running Windows 7 that my mom gave me when I was 10
+### Contact info: lstraus@uchicago.edu
+### Favorite Language: Python
